@@ -1,0 +1,41 @@
+.listCard__wrap{
+    width: 254px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.listCard__img{
+    width: 250px;
+    height: 290px;
+}
+
+.listCard__inf-wrap{
+    margin: auto;
+    text-align: center;
+}
+
+.listCard__title{
+    font-size: 14px;
+    color: #000000;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.listCard__desc{
+    font-size: 14px;
+    font-size: 10px;
+    color: #939393;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.listCard__price{
+    font-size: 18px;
+    color: #000000;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

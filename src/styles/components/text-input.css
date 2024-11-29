@@ -1,0 +1,12 @@
+input{
+    padding-left: 19px;
+}
+
+.input__text-wrap{
+    width: 445px;
+    height: 55px;
+    padding-left: 19px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

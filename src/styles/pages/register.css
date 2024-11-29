@@ -1,0 +1,81 @@
+.register__wrap{
+    width: 100%;
+    height: auto;
+    background: #F9FAFE;
+    display: flex;
+    flex-direction: row;
+}
+
+.register__form-wrap{
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    padding-left: 160px;
+    margin-bottom: 50px;
+}
+
+.form__head-text{
+    font-size: 42px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form__desc-text{
+    font-size: 14px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.register__button{
+    width: 190px;
+    height: 55px;
+    background: #735CFF;
+    color: #FFFFFF;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.register__imgs-wrap{
+    width: 640px;
+    height: auto;
+    margin-right: 0;
+    margin-left: auto;
+    margin-top: 90px;
+}
+
+.register__img-wrap{
+    width: 640px;
+    height: 730px;
+    background: url('../../imgs/bg.png');
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.register__icon-back{
+    position: relative;
+    top: 398px;
+    left: -55px;
+    width: 114px;
+    height: 114px;
+    background: #735CFF;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register__icon{
+    width: 60px;
+    height: 71px;
+    background: url('../../imgs/icon.png');
+    background-size: cover;
+    background-position: center;
+}
